@@ -6,6 +6,11 @@
 - Grasped complex astrophysical concepts, proficiently coded in Python, and consistently offered innovative solutions.
 - Modeled simulations of neutron stars in MATLAB to predict certain features in extraneous conditions to present the results of the study in a research paper.
 
+### Technical Stock Analysis at Weiss Asset Management
+- Conducted fundamental analysis to select stocks for the portfolio, considering various financial indicators and market conditions.
+- Utilized correlation matrices, Markowitz optimization, and linear regression to systematically minimize portfolio risk, formulating a balanced and robust investment strategy.
+  Designed and rigorously back-tested portfolio optimization models to enhance the "Sharpe ratio," thereby maximizing the risk-adjusted return for various market scenarios.
+
 
 ## Advanced Courses I've taken 
 - ECE 532: Matrix Methods in Machine Learning
