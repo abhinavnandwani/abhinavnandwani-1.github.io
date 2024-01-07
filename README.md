@@ -5,7 +5,9 @@
 - Liaised with [Dr. Alexander Mushtukov from Oxford University](https://www.physics.ox.ac.uk/our-people/mushtukov "Dr. Alexander Mushtukov") to prepare research paper on neutron stars.
 - Grasped complex astrophysical concepts, proficiently coded in Python, and consistently offered innovative solutions.
 - Modeled simulations of neutron stars in MATLAB to predict certain features in extraneous conditions to present the results of the study in a research paper.
+  
 Link to research paper
+
 Link to recommendation from Dr. Mushtukov
 
 ### Technical Stock Analysis at Weiss Asset Management
