@@ -9,7 +9,7 @@
 
 ## Advanced Courses I've taken 
 - ECE 532: Matrix Methods in Machine Learning
-  ...Linear algebraic foundations of machine learning featuring real-world applications of matrix methods from classification and clustering to denoising and data analysis. Mathematical topics include: linear equations, regression, regularization, the singular value decomposition, and iterative algorithms. Machine learning topics include: the lasso, support vector machines, kernel methods, clustering, dictionary learning, neural networks, and deep learning. 
+⋅⋅⋅Linear algebraic foundations of machine learning featuring real-world applications of matrix methods from classification and clustering to denoising and data analysis. Mathematical topics include: linear equations, regression, regularization, the singular value decomposition, and iterative algorithms. Machine learning topics include: the lasso, support vector machines, kernel methods, clustering, dictionary learning, neural networks, and deep learning. 
   
 - ECE 354: Machine Organization and Programming
 ...An introduction to fundamental structures of computer systems and the C programming language with a focus on the low-level interrelationships and impacts on performance. Topics include the virtual address space and virtual memory, the heap and dynamic memory management, the memory hierarchy and caching, assembly language and the stack, communication and interrupts/signals, compiling and assemblers/linkers.
