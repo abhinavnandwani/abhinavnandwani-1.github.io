@@ -8,13 +8,14 @@
   
 Link to research paper
 
-Link to recommendation from Dr. Mushtukov
+[Link to recommendation from Dr. Mushtukov][assets/Letter of Recommendation from Dr. Alexander Mushtukov.pdf]
 
 ### Technical Stock Analysis at Weiss Asset Management
 - Conducted fundamental analysis to select stocks for the portfolio, considering various financial indicators and market conditions.
 - Utilized correlation matrices, Markowitz optimization, and linear regression to systematically minimize portfolio risk, formulating a balanced and robust investment strategy.
-  Designed and rigorously back-tested portfolio optimization models to enhance the "Sharpe ratio," thereby maximizing the risk-adjusted return for various market scenarios.
+- Designed and rigorously back-tested portfolio optimization models to enhance the "Sharpe ratio," thereby maximizing the risk-adjusted return for various market scenarios.
 
+[Link to recommendation from Weiss][assets/Letter of Recommendation from Weiss.pdf]
 
 ## Advanced Courses I've taken 
 - ECE 532: Matrix Methods in Machine Learning
