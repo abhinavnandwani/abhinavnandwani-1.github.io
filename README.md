@@ -15,7 +15,7 @@ Link to research paper
 - Utilized correlation matrices, Markowitz optimization, and linear regression to systematically minimize portfolio risk, formulating a balanced and robust investment strategy.
 - Designed and rigorously back-tested portfolio optimization models to enhance the "Sharpe ratio," thereby maximizing the risk-adjusted return for various market scenarios.
 
-[Link to recommendation from Weiss](assets/Letter of Recommendation from Weiss.pdf)
+[Link to recommendation from Weiss](./assets/Letter%20of%20Recommendation%20from%20Weiss.pdf)
 
 ## Advanced Courses I've taken 
 - ECE 532: Matrix Methods in Machine Learning
