@@ -8,7 +8,7 @@
   
 Link to research paper
 
-[Link to recommendation from Dr. Mushtukov](./assets/Letter%20of%Recommendation%from%Dr.%Alexander%Mushtukov.pdf)
+[Link to recommendation from Dr. Mushtukov](./assets/Letter%20of%20Recommendation%20from%20Dr.%20Alexander%20Mushtukov.pdf)
 
 ### Technical Stock Analysis at Weiss Asset Management
 - Conducted fundamental analysis to select stocks for the portfolio, considering various financial indicators and market conditions.
