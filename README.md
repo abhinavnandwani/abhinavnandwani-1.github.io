@@ -6,7 +6,7 @@
 - Grasped complex astrophysical concepts, proficiently coded in Python, and consistently offered innovative solutions.
 - Modeled simulations of neutron stars in MATLAB to predict certain features in extraneous conditions to present the results of the study in a research paper.
   
-Link to research paper
+[Link to research paper](./assets/Abstract_%20Research%20Project%20with%20Dr.%20Alexander%20Mushtukov.pdf)
 
 [Link to recommendation from Dr. Mushtukov](./assets/Letter%20of%20Recommendation%20from%20Dr.%20Alexander%20Mushtukov.pdf)
 
