@@ -11,7 +11,7 @@
 
 
 ## 🔗 Projects Repository
-Check out my projects and code samples on my [GitHub repository](#) _(https://github.com/abhinavnandwani)_.
+Check out my projects and code samples on my [GitHub repository](https://github.com/abhinavnandwani)
 
 ## 🔬 Projects and Experiences
 
