@@ -1,29 +1,47 @@
-### I am a undergradute majoring in [computer engineering at uw-madison](https://guide.wisc.edu/undergraduate/engineering/electrical-computer-engineering/computer-engineering-bs/ "Computer Engineering, B.S. < University of Wisconsin-Madison"). My interests lie in applications of machine learning to the physical world.
+# Abhinav Nandwani's Personal Website
 
-## Projects and Experiences
-### Perdictive Model of Neutron Stars
-- Liaised with [Dr. Alexander Mushtukov from Oxford University](https://www.physics.ox.ac.uk/our-people/mushtukov "Dr. Alexander Mushtukov") to prepare research paper on neutron stars.
-- Grasped complex astrophysical concepts, proficiently coded in Python, and consistently offered innovative solutions.
-- Modeled simulations of neutron stars in MATLAB to predict certain features in extraneous conditions to present the results of the study in a research paper.
-  
-[Link to research paper](./assets/Abstract_%20Research%20Project%20with%20Dr.%20Alexander%20Mushtukov.pdf)
+### 👋 About Me
+I am an undergraduate majoring in [Computer Engineering at UW-Madison](https://guide.wisc.edu/undergraduate/engineering/electrical-computer-engineering/computer-engineering-bs/ "Computer Engineering, B.S. < University of Wisconsin-Madison"), specializing in Machine Learning. My academic journey focuses on ASIC design and high-performance digital systems, and my passion lies in developing energy-efficient neural network inference hardware. Expected to graduate in 2026, I am actively seeking opportunities in ASIC Design and Verification.
 
-[Link to recommendation from Dr. Mushtukov](./assets/Letter%20of%20Recommendation%20from%20Dr.%20Alexander%20Mushtukov.pdf)
+### 📚 Education
+- **University of Wisconsin-Madison, College of Engineering**  
+  Bachelor of Science, Computer Engineering (Machine Learning Specialization), Computer Science Minor  
+  **GPA**: 3.86/4.0  
+  **Expected Graduation**: 2026
 
-### Technical Stock Analysis at Weiss Asset Management
-- Conducted fundamental analysis to select stocks for the portfolio, considering various financial indicators and market conditions.
-- Utilized correlation matrices, Markowitz optimization, and linear regression to systematically minimize portfolio risk, formulating a balanced and robust investment strategy.
-- Designed and rigorously back-tested portfolio optimization models to enhance the "Sharpe ratio," thereby maximizing the risk-adjusted return for various market scenarios.
+## 🔬 Projects and Experiences
 
-[Link to recommendation from Weiss](./assets/Letter%20of%20Recommendation%20from%20Weiss%20Asset%20Management.pdf)
+### Systolic Array AI Accelerator Design
+Developed a low-power ASIC optimized for real-time neural network inference, leveraging a systolic array architecture with INT8 MAC operations and memory buffers to minimize latency:
+- Designed finite state machines (FSMs) for precise control of data flow and timing.
+- Integrated a row-stationary dataflow inspired by Google’s TPU, enhancing data reuse.
+- Implemented sparsity-aware execution, skipping zero weights/activations to achieve power efficiency.
 
-## Advanced Courses I've taken 
+### High-Performance RISC CPU
+Collaborated on designing a five-stage pipelined MIPS microprocessor with advanced performance features:
+- Implemented a two-way set-associative cache to improve memory access speed.
+- Included a multi-cycle memory system with register bypassing, forwarding, and branch prediction to minimize stalls.
+- Designed for robust exception handling, enabling smooth control flow and supporting parallel instruction execution with a superscalar architecture.
 
-- ECE 551: Digital Design and Synthesis
-- ECE 552: Computer Architecture
-- ECE 532: Matrix Methods in Machine Learning
-- CS 577 : Introduction to Algorithms
-- ECE 352: Digital System Fundamentals
-  
+### Self-Automated Robot Knight’s Tour on a Chessboard
+Built an autonomous robot to complete the Knight’s Tour on a chessboard using precise control techniques:
+- Employed a PID controller with PWM for accurate positioning and movement.
+- Integrated UART and SPI interfaces for communication between the robot’s microprocessor and sensors.
+- Used Synopsys Design Vision and a 32nm library to optimize the design, with Process, Voltage, and Temperature (PVT) constraints for reliable performance.
 
+## 📘 Advanced Courses I've Taken
+- **ECE 551**: Digital Design and Synthesis
+- **ECE 552**: Computer Architecture
+- **ECE 532**: Matrix Methods in Machine Learning
+- **CS 577**: Introduction to Algorithms
+- **ECE 352**: Digital System Fundamentals
 
+## 📈 Skills
+- **Languages**: SystemVerilog, Python, C++
+- **Tools**: Synopsys Design Vision, MATLAB, Synopsys VCS, Cadence Virtuoso
+- **Core Competencies**: ASIC Design, Digital System Design, CPU Architecture, Machine Learning Algorithms, Neural Network Inference Optimization
+
+## 🔗 Projects Repository
+Check out my projects and code samples on my [GitHub repository](#) _(link to your GitHub repository)_.
+
+---
