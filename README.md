@@ -39,6 +39,7 @@ Built an autonomous robot to complete the Knight’s Tour on a chessboard using 
 - **ECE 532**: Matrix Methods in Machine Learning
 - **CS 577**: Introduction to Algorithms
 - **ECE 352**: Digital System Fundamentals
+- **ECE 354** : Machine Organization and Programming (The C language)
 
 ## 📈 Skills
 - **Languages**: SystemVerilog, Python, C++, C
