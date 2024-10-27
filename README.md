@@ -1,7 +1,7 @@
 # Abhinav Nandwani's Personal Website
 
 ### 👋 About Me
-I am an undergraduate majoring in [Computer Engineering at UW-Madison](https://guide.wisc.edu/undergraduate/engineering/electrical-computer-engineering/computer-engineering-bs/ "Computer Engineering, B.S. < University of Wisconsin-Madison"), specializing in Machine Learning. My academic journey focuses on ASIC design and high-performance digital systems, and my passion lies in developing energy-efficient neural network inference hardware. Expected to graduate in 2026, I am actively seeking opportunities in ASIC Design and Verification.
+### I am a undergradute majoring in [computer engineering at uw-madison](https://guide.wisc.edu/undergraduate/engineering/electrical-computer-engineering/computer-engineering-bs/ "Computer Engineering, B.S. < University of Wisconsin-Madison"). My interests lie in energy efficent neural network inference ASIC design. 
 
 ### 📚 Education
 - **University of Wisconsin-Madison, College of Engineering**  
