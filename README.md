@@ -18,12 +18,12 @@
 [Link to recommendation from Weiss](./assets/Letter%20of%20Recommendation%20from%20Weiss%20Asset%20Management.pdf)
 
 ## Advanced Courses I've taken 
-- ECE 532: Matrix Methods in Machine Learning
 
-   Linear algebraic foundations of machine learning featuring real-world applications of matrix methods from classification and clustering to denoising and data analysis. Mathematical topics include: linear equations, regression, regularization, the singular value decomposition, and iterative algorithms. Machine learning topics include: the lasso, support vector machines, kernel methods, clustering, dictionary learning, neural networks, and deep learning. 
-  
+- ECE 551: Digital Design and Synthesis
+- ECE 552: Computer Architecture
+- ECE 532: Matrix Methods in Machine Learning
+- CS 577 : Introduction to Algorithms
 - ECE 352: Digital System Fundamentals
   
-   Logic components, Boolean algebra, combinational logic analysis and synthesis, synchronous and asynchronous sequential logic analysis and design, digital subsystems, computer organization and design.
 
-[Link to quoted guide](https://guide.wisc.edu/courses/e_c_e/ "ECE Guide < University of Wisconsin-Madison")
+
