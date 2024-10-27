@@ -41,8 +41,8 @@ Built an autonomous robot to complete the Knight’s Tour on a chessboard using 
 - **ECE 352**: Digital System Fundamentals
 
 ## 📈 Skills
-- **Languages**: SystemVerilog, Python, C++
-- **Tools**: Synopsys Design Vision, MATLAB, Synopsys VCS, Cadence Virtuoso
+- **Languages**: SystemVerilog, Python, C++, C
+- **Tools**: Synopsys Design Vision, ModelSim / Questa , PyTorch, Tensorflow
 - **Core Competencies**: ASIC Design, Digital System Design, CPU Architecture, Machine Learning Algorithms, Neural Network Inference Optimization
 
 
