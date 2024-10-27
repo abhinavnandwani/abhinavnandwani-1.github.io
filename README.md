@@ -9,6 +9,10 @@
   **GPA**: 3.86/4.0  
   **Expected Graduation**: 2026
 
+
+## 🔗 Projects Repository
+Check out my projects and code samples on my [GitHub repository](#) _(https://github.com/abhinavnandwani)_.
+
 ## 🔬 Projects and Experiences
 
 ### Systolic Array AI Accelerator Design
@@ -41,7 +45,5 @@ Built an autonomous robot to complete the Knight’s Tour on a chessboard using 
 - **Tools**: Synopsys Design Vision, MATLAB, Synopsys VCS, Cadence Virtuoso
 - **Core Competencies**: ASIC Design, Digital System Design, CPU Architecture, Machine Learning Algorithms, Neural Network Inference Optimization
 
-## 🔗 Projects Repository
-Check out my projects and code samples on my [GitHub repository](#) _(link to your GitHub repository)_.
 
 ---
