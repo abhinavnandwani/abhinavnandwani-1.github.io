@@ -17,15 +17,15 @@
 
 
 ### Pipelined RISC CPU [Repo](https://github.com/abhinavnandwani/mips-r2000-microprocessor)
-●	Designed, in collaboration, a 5-stage pipelined MIPS CPU in Verilog with control, data hazards prevention and exception handling. 
-●	Integrated a two-way set-associative cache with four-banked memory and optimizations like bypassing, forwarding, and branch prediction to minimize pipeline stalls.
+- Designed, in collaboration, a 5-stage pipelined MIPS CPU in Verilog with control, data hazards prevention and exception handling. 
+- Integrated a two-way set-associative cache with four-banked memory and optimizations like bypassing, forwarding, and branch prediction to minimize pipeline stalls.
 
 
-### Self-Automated Robot Knight’s Tour on a Chessboard
-Built an autonomous robot to complete the Knight’s Tour on a chessboard using precise control techniques:
-- Employed a PID controller with PWM for accurate positioning and movement.
-- Integrated UART and SPI interfaces for communication between the robot’s microprocessor and sensors.
-- Used Synopsys Design Vision and a 32nm library to optimize the design, with Process, Voltage, and Temperature (PVT) constraints for reliable performance.
+### Autonomous Robot Chip Synthesis [Repo](https://github.com/abhinavnandwani/knights-tour)
+- Worked in a team of four, under Eric Hoffman’s guidance, to design an autonomous robot capable of executing the entire Knight's Tour on a chessboard, entirely at the RTL level.
+- Employed a PID controller with PWM for precise movement and positioning. Utilized UART and SPI interfaces for effective communication between the robot’s components and the microprocessor.
+- Simulated and Synthesized on Intel Quartus and Synopsys using a 32nm library. Applied PVT and low-level constraints, optimizing the design and meeting max and min delay slack with clock uncertainty.
+
 
 ## 📘 Advanced Courses I've Taken
 - **ECE 551**: Digital Design and Synthesis
