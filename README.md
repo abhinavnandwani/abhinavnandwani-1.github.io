@@ -16,7 +16,7 @@
 ●	This architecture increased power efficiency by offloading intensive matrix multiplications, allowing the ARM chip to focus on general system operations.
 
 
-### Pipelined RISC CPU [Repo] (https://github.com/abhinavnandwani/mips-r2000-microprocessor)
+### Pipelined RISC CPU [Repo](https://github.com/abhinavnandwani/mips-r2000-microprocessor)
 ●	Designed, in collaboration, a 5-stage pipelined MIPS CPU in Verilog with control, data hazards prevention and exception handling. 
 ●	Integrated a two-way set-associative cache with four-banked memory and optimizations like bypassing, forwarding, and branch prediction to minimize pipeline stalls.
 
