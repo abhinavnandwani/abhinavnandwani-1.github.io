@@ -8,12 +8,9 @@
   **Expected Graduation**: 2026
 
 
-## 🔗 Projects Repository
-Check out my projects and code samples on my [GitHub](https://github.com/abhinavnandwani)
-
 ## 🔬 Projects and Experiences
 
-### ARM-Based AI Inference Accelerator for Meta Llama 2[Repo](https://github.com/abhinavnandwani/arm-llama2-asic)
+### ARM-Based AI Inference Accelerator for Meta Llama 2 [Repo](https://github.com/abhinavnandwani/arm-llama2-asic)
 ●	Developed an ASIC on the AMD Xilinx platform for a scaled-down 50M Llama 2 model using a systolic array optimized for INT8 quantization in SystemVerilog.
 ●	Implemented the Llama 2 architecture from scratch in C, leveraging an ARM Cortex microprocessor. 
 ●	This architecture increased power efficiency by offloading intensive matrix multiplications, allowing the ARM chip to focus on general system operations.
