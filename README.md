@@ -13,11 +13,11 @@ Check out my projects and code samples on my [GitHub](https://github.com/abhinav
 
 ## 🔬 Projects and Experiences
 
-### Systolic Array AI Accelerator Design
-Developed a low-power ASIC optimized for real-time neural network inference, leveraging a systolic array architecture with INT8 MAC operations and memory buffers to minimize latency:
-- Designed finite state machines (FSMs) for precise control of data flow and timing.
-- Integrated a row-stationary dataflow inspired by Google’s TPU, enhancing data reuse.
-- Implemented sparsity-aware execution, skipping zero weights/activations to achieve power efficiency.
+### ARM-Based AI Inference Accelerator for Meta Llama 2[Repo](https://github.com/abhinavnandwani/arm-llama2-asic)
+●	Developed an ASIC on the AMD Xilinx platform for a scaled-down 50M Llama 2 model using a systolic array optimized for INT8 quantization in SystemVerilog.
+●	Implemented the Llama 2 architecture from scratch in C, leveraging an ARM Cortex microprocessor. 
+●	This architecture increased power efficiency by offloading intensive matrix multiplications, allowing the ARM chip to focus on general system operations.
+
 
 ### High-Performance RISC CPU
 Collaborated on designing a five-stage pipelined MIPS microprocessor with advanced performance features:
